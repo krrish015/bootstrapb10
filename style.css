@@ -1,0 +1,38 @@
+h1{
+    color:red;
+    background-color:grey;
+    border-radius:10px;
+    text-align: center;
+    border:solid;
+
+}
+nav{
+    background-color:grey;
+    color:white;
+    display:flex;
+    border-radius:10px;
+    justify-content:space-evenly;
+    border-style:hidden;
+    border:solid;
+}
+div{
+        margin:10px;
+        background-color:grey;
+        padding:30px;
+        height:50%;
+        width:95%;
+        border-radius:10px;
+        border:solid;
+
+    }
+nav{
+    background-color:darkgray
+}
+footer{
+    background-color:grey;
+    border-radius:10px;
+    text-align: center;
+    border:solid;
+    margin-left:10px;
+
+}
